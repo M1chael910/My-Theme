@@ -5,4 +5,9 @@ body {
 	--h4-color: rgb(134, 157, 180);
 	--h5-color: rgb(166, 133, 161);
 	--h6-color: rgb(121, 150, 182);
+
+	--tab-text-color-focused-active: rgb(174, 92, 96);
+	/* --tab-text-color: rgb(174, 92, 96);
+	--tab-text-color: rgb(174, 92, 96); */
+	/* --tab-background-active: rgb(174, 92, 96); */
 }
